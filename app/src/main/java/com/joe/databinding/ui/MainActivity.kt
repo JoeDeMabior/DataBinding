@@ -1,7 +1,8 @@
-package com.joe.databinding
+package com.joe.databinding.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.joe.databinding.R
 
 class MainActivity : AppCompatActivity() {
 
