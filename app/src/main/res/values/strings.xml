@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DataBinding</string>
+    <string name="change_fruit">Change Fruit</string>
+    <string name="enter_a_fruit_s_name">Enter a fruit\'s name</string>
+    <string name="display_edittext_content">Display EditText Content</string>
+    <string name="select_random_fruit_for_edittext">Select Random Fruit for EditText</string>
 </resources>
