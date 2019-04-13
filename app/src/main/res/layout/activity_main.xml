@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.joe.databinding.MainViewModel" />
+            type="com.joe.databinding.viewmodels.MainViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
